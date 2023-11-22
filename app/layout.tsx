@@ -17,7 +17,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} flex flex-1`}>
+      <body className={`${inter.className} grid min-h-screen grid-cols-[auto_1fr] justify-center`}>
+        <div className='w-80'>
+        </div>
         <Sidebar />
         {children}
       </body>

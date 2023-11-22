@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="mt-16 p-16 border-t border-t-[#e3e3e3]">
       <header className="flex items-center gap-5">
-        <div className="w-[100%]">
+        <div className="w-full">
           <h1 className="text-[48px] text-[#1E1E1E] font-[600]">
             The <span className="text-[#0400DD]">stock market </span> is a
             device for transferring money from the
@@ -198,5 +198,4 @@ export default function Home() {
         </p>
       </section>
     </main>
-  );
-}
+  )};
