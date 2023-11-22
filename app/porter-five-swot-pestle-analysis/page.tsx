@@ -62,6 +62,8 @@ const page = () => {
           point1="Increase in regulatory demands delay decision making and business growth"
         />
 
+        <div style={{ content: "" }} />
+
         <SwotContainer
           title="environmental"
           point1="Implementation of alternative energy mechanism"
