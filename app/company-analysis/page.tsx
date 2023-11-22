@@ -11,6 +11,43 @@ const Page = () => {
             <img src={"/images/charts/chart_2.svg"} alt={"industrial-analysis"} width={340} className='object-contain h-[250px]'/>
             <img src={"/images/charts/chart_3.svg"} alt={"industrial-analysis"} />
 
+            <ul className='object-contain h-[170px] list-disc text-[18px] leading-8 pl-5'>
+              <li >
+              24.8% YoY revenue growth
+              </li>
+              <li>
+              5 year forecast gh 17.81 bn
+              </li>
+              <li>
+              OPEX gh 4.4 bn : grew COS & <br></br>Opex by 18.5% and 31.5%
+              </li>
+              <li>
+              Efficient cost structures
+              </li>
+            </ul>
+            <ul className='object-contain h-[170px] list-disc text-[18px] leading-8 pl-8'>
+            <li >
+            The profit of MTN increasing over the <br></br>years
+              </li>
+              <li>
+              Consistency in the performance of the <br></br>company
+              </li>
+              
+            </ul>
+            <ul className='object-contain h-[170px] list-disc text-[18px] leading-8 pl-8'>
+            <li >
+            Average Conversion = 51%
+              </li>
+              <li>
+              In 5 yrs time its projected to be 59%
+              </li>
+              <li>
+              MTN must improve on Trade <br></br>receivables position
+              </li>
+              <li>
+              Efficient cost structures
+              </li>
+            </ul>
             <img src={"/images/charts/chart_4.svg"} alt={"industrial-analysis"} width={330} height={330} />
             <img src={"/images/charts/chart_5.svg"} alt={"industrial-analysis"} width={340} className='object-cover h-[220px]'/>
             <img src={"/images/charts/chart_6.svg"} alt={"industrial-analysis"} width={350} height={350} />
