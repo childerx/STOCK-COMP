@@ -56,14 +56,20 @@ const page = () => {
         </h1>
         <div className="h-1 bg-[#0F0CB0] rounded-full w-[25%] mx-auto mb-10" />
 
-        <ul className="list-disc text-[18px] leading-8">
-          <li className="mb-3">
-            Compromised informational security and customer privacy
-          </li>
-          <li className="tmb-3">Ability to recover from catastrophic events</li>
-          <li className="tmb-3">Social and Negative Impact of MTN’s actions</li>
-          <li className="mb-3">Exposure to negative market fluctuations</li>
-        </ul>
+        <div className="max-w-[50%] mx-auto text-left">
+          <ul className="list-disc list-inside text-[18px] leading-8">
+            <li className="mb-3">
+              Compromised informational security and customer privacy
+            </li>
+            <li className="mb-3">
+              Ability to recover from catastrophic events
+            </li>
+            <li className="mb-3">
+              Social and Negative Impact of MTN’s actions
+            </li>
+            <li className="mb-3">Exposure to negative market fluctuations</li>
+          </ul>
+        </div>
       </section>
     </main>
   );
