@@ -22,7 +22,7 @@ const Sidebar = () => {
                 <h1 className='text-2xl text-center font-medium'>MS</h1>
             </div>
 
-            <div className='flex flex-col gap-6 p-1 mt-4'>
+            <div className='flex flex-col gap-4 p-1 mt-4'>
                 {navigationLinks.map((navigationLink: navLink) => (
                 <Link
                     key={navigationLink.path}
