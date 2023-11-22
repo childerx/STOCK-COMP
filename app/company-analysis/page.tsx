@@ -6,7 +6,7 @@ const Page = () => {
     <div className='flex flex-col justify-center items-center'>
         <h1 className='text-center mt-10 text-2xl'>COMPANY ANALYSIS: Charts</h1>
         <div className='border-b-2 border-b-active border w-52'></div>
-        <div className='grid grid-cols-3 mt-10 gap-8 justify-center items-center'>
+        <div className='grid grid-cols-3 mt-10 gap-8 justify-center items-center p-3'>
             <img src={"/images/charts/chart_1.svg"} alt={"industrial-analysis"}/>
             <img src={"/images/charts/chart_2.svg"} alt={"industrial-analysis"} width={340} className='object-contain h-[250px]'/>
             <img src={"/images/charts/chart_3.svg"} alt={"industrial-analysis"} />
