@@ -9,7 +9,7 @@ const page = () => {
         SENSITIVITY ANALYSIS: Table
       </h1>
       <div className="h-1 bg-[#0F0CB0] rounded-full w-[25%] mx-auto mb-10" />
-      <div className='flex mt-36 justify-center items-center ml-16 mb-10'>
+      <div className='flex mt-30 justify-center items-center ml-16 mb-10'>
             <Image src={"/images/charts/table_1.png"} alt={"industrial-analysis"} width={1000} height={700} />
         </div> 
         <h1 className="text-[#1E1E1E] font-[600] text-[24px] uppercase mb-2">
