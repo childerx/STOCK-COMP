@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="mt-16 p-16 border-t-[1px]">
+    <main className="mt-16 p-16 border-t border-t-[#e3e3e3]">
       <header className="flex items-center gap-5">
         <div className="w-[100%]">
           <h1 className="text-[48px] text-[#1E1E1E] font-[600]">
