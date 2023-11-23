@@ -10,7 +10,20 @@ const page = () => {
       </h1>
       <div className="h-1 bg-[#0F0CB0] rounded-full w-[25%] mx-auto mb-10" />
 
-      <div className="grid grid-cols-3 gap-10 justify-center text-center justify-items-center w-full">
+      <p className="text-[18px] font-[400] leading-8 mb-16">
+        Economic conditions cannot be exempted in our quest to make an informed
+        investment decision. In this section, we want to look at how the present
+        state of the economy in a country, region or the entire globe is. These
+        conditions change over time along with the economic and business cycles,
+        as an economy goes through periods of expansion and contraction (Chen,
+        2020). According (Chen, 2020), indicators of economic conditions provide
+        important insights to investors and businesses as investors use
+        indicators of economic conditions to adjust their views on economic
+        growth and profitability. Below are briefly discussed economic factors
+        necessary in our investment decision for the MTN Ghana Stock:
+      </p>
+
+      <div className="flex flex-wrap gap-10 justify-center w-full">
         <EconAnalysisContainer
           title="global"
           body="IMF has predicted a low global economic growth of 2.9% for the year."
@@ -52,12 +65,12 @@ const page = () => {
       <section className="text-center">
         <h1 className="text-[#1E1E1E] font-[600] text-[24px] uppercase mt-16 mb-2">
           {" "}
-          facts
+          INVESTMENT RISKS
         </h1>
         <div className="h-1 bg-[#0F0CB0] rounded-full w-[25%] mx-auto mb-10" />
 
-        <div className="max-w-[50%] mx-auto text-left">
-          <ul className="list-disc list-inside text-[18px] leading-8">
+        <div className="max-w-[55%] mx-auto text-left">
+          <ul className="list-disc  text-[18px] leading-8">
             <li className="mb-3">
               Compromised informational security and customer privacy
             </li>
