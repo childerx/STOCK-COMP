@@ -28,91 +28,112 @@ export default function Home() {
       <section className="text-center mt-16 px-10 mx-auto">
         <h1 className="text-[#1E1E1E] font-[600] text-[24px] uppercase mb-2">
           {" "}
-          overview of the stock market
+          introduction
         </h1>
         <div className="h-1 bg-[#0F0CB0] rounded-full w-[25%] mx-auto mb-10" />
 
-        <p className="text-[18px] font-[400] leading-8 mb-6">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus non
-          enim praesent elementum facilisis leo vel fringilla est. Tristique
-          senectus et netus et malesuada fames. Amet mattis vulputate enim nulla
-          aliquet. Malesuada bibendum arcu vitae elementum curabitur. Ultrices
-          sagittis orci a scelerisque purus semper eget duis. Sodales ut eu sem
-          integer vitae justo eget magna. Nisl purus in mollis nunc sed id
-          semper risus. Sed vulputate odio ut enim blandit volutpat maecenas.
-          Gravida dictum fusce ut placerat orci nulla pellentesque dignissim
-          enim. Est ultricies integer quis auctor elit sed vulputate mi. Euismod
-          nisi porta lorem mollis aliquam ut. Quis vel eros donec ac odio tempor
-          orci dapibus ultrices.
+        <p className="text-[18px] font-[400] leading-8 mb-16">
+          An investment is something of value purchased to make more money.
+          While the term "investment" is often applied to stocks, bonds, and
+          other financial instruments, investments also commonly include real
+          estate, artwork, collectibles, and even wine (Rosenberg, 2021). In his
+          work, (Rosenberg, 2021) averred that there are often risks involved
+          with investing, but those risks regularly pay off for countless
+          investors worldwide. Here, we shall look at investments pertaining to
+          stocks. This essay intends to walk the reader through the stock market
+          of Ghana and shall recommend an investment opportunity for the
+          company, MTN Ghana. It shall describe the Ghanaian stock market, MTN
+          Ghana company, investment thesis, industrial analysis, economic
+          analysis, valuation, company analysis, sensitivity analysis, porters
+          five, SWOT and PESTLE analysis.
         </p>
 
-        <p className="text-[18px] font-[400] leading-8 mb-6">
-          Eu nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Fusce id
-          velit ut tortor pretium viverra. Dignissim sodales ut eu sem integer
-          vitae justo eget. Et ligula ullamcorper malesuada proin libero nunc.
-          Ultrices in iaculis nunc sed augue lacus. Sed lectus vestibulum mattis
-          ullamcorper velit sed ullamcorper morbi. Tempus quam pellentesque nec
-          nam aliquam. Risus quis varius quam quisque. Ultricies mi eget mauris
-          pharetra. Ultrices mi tempus imperdiet nulla malesuada pellentesque
-          elit. Porttitor eget dolor morbi non arcu risus.
-        </p>
-
-        <p className="text-[18px] font-[400] leading-8">
-          Enim blandit volutpat maecenas volutpat blandit aliquam. Facilisi
-          etiam dignissim diam quis enim lobortis scelerisque fermentum dui.
-          Aliquet enim tortor at auctor. Elit pellentesque habitant morbi
-          tristique senectus et. A condimentum vitae sapien pellentesque
-          habitant. Amet facilisis magna etiam tempor orci eu lobortis elementum
-          nibh. Volutpat diam ut venenatis tellus in metus vulputate. Sagittis
-          orci a scelerisque purus semper. At tempor commodo ullamcorper a. Non
-          diam phasellus vestibulum lorem sed risus ultricies. Ullamcorper morbi
-          tincidunt ornare massa eget egestas purus viverra.
-        </p>
-      </section>
-      <section className="text-center mt-16 px-10 mx-auto">
         <h1 className="text-[#1E1E1E] font-[600] text-[24px] uppercase mb-2">
           {" "}
           overview of ghana stock exchange
         </h1>
         <div className="h-1 bg-[#0F0CB0] rounded-full w-[25%] mx-auto mb-10" />
 
-        <p className="text-[18px] font-[400] leading-8 mb-6">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus non
-          enim praesent elementum facilisis leo vel fringilla est. Tristique
-          senectus et netus et malesuada fames. Amet mattis vulputate enim nulla
-          aliquet. Malesuada bibendum arcu vitae elementum curabitur. Ultrices
-          sagittis orci a scelerisque purus semper eget duis. Sodales ut eu sem
-          integer vitae justo eget magna. Nisl purus in mollis nunc sed id
-          semper risus. Sed vulputate odio ut enim blandit volutpat maecenas.
-          Gravida dictum fusce ut placerat orci nulla pellentesque dignissim
-          enim. Est ultricies integer quis auctor elit sed vulputate mi. Euismod
-          nisi porta lorem mollis aliquam ut. Quis vel eros donec ac odio tempor
-          orci dapibus ultrices.
+        <p className="text-[18px] font-[400] leading-8 ">
+          According to (Hayes, 2023), the stock market provides a venue where
+          companies raise capital by selling shares of stock, or equity, to
+          investors. Stocks give shareholders voting rights as well as a
+          residual claim on corporate earnings in the form of capital gains and
+          dividends. Individual and institutional investors come together on
+          stock exchanges to buy and sell shares in the public market. When you
+          buy a share of stock on the stock market, you are not buying it from
+          the company, you are buying it from an existing shareholder (Hayes,
+          2023).
         </p>
 
-        <p className="text-[18px] font-[400] leading-8 mb-6">
-          Eu nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Fusce id
-          velit ut tortor pretium viverra. Dignissim sodales ut eu sem integer
-          vitae justo eget. Et ligula ullamcorper malesuada proin libero nunc.
-          Ultrices in iaculis nunc sed augue lacus. Sed lectus vestibulum mattis
-          ullamcorper velit sed ullamcorper morbi. Tempus quam pellentesque nec
-          nam aliquam. Risus quis varius quam quisque. Ultricies mi eget mauris
-          pharetra. Ultrices mi tempus imperdiet nulla malesuada pellentesque
-          elit. Porttitor eget dolor morbi non arcu risus.
+        <p className="text-[18px] font-[400] leading-8 mb-12">
+          The Ghana Stock Exchange was established in July 1989 as a private
+          company limited by guarantee under the Companies Code of 1963. It was
+          given recognition as an authorized Stock Exchange under the Stock
+          Exchange Act of 1971 (Act 384) in October 1990 (Ghana Stock Exchange,
+          n.d.). However, the Exchange changed its status to a public company
+          limited by guarantee in April 1994 (Ghana Stock Exchange, n.d.). With
+          the vision to become an internationally recognized securities market
+          relevant to Ghana’s economy, and a mission to provide an efficient
+          securities market for national economic development through access to
+          capital and investment, GSE is known to possess Professionalism,
+          Excellence, Transparency, Integrity, Teamwork and Efficiency as its
+          values.
         </p>
 
-        <p className="text-[18px] font-[400] leading-8">
-          Enim blandit volutpat maecenas volutpat blandit aliquam. Facilisi
-          etiam dignissim diam quis enim lobortis scelerisque fermentum dui.
-          Aliquet enim tortor at auctor. Elit pellentesque habitant morbi
-          tristique senectus et. A condimentum vitae sapien pellentesque
-          habitant. Amet facilisis magna etiam tempor orci eu lobortis elementum
-          nibh. Volutpat diam ut venenatis tellus in metus vulputate. Sagittis
-          orci a scelerisque purus semper. At tempor commodo ullamcorper a. Non
-          diam phasellus vestibulum lorem sed risus ultricies. Ullamcorper morbi
-          tincidunt ornare massa eget egestas purus viverra.
+        <h1 className="text-[22px] font-[700] leading-8 text-center mb-4">
+          Historically, GSE was set up with the following objects:
+        </h1>
+
+        <ul className="text-left text-[18px] font-[400] leading-8 mb-6 list-disc ">
+          <li className="mb-2">
+            To provide the facilities and framework to the public for the
+            purchase and sales of bonds, shares, and other securities.
+          </li>
+          <li className="mb-2">
+            To control the granting of quotations on the securities market in
+            respect of bonds, shares, and other securities of any company,
+            corporation, government, municipality, local authority, or other
+            body corporate.
+          </li>
+          <li className="mb-2">
+            To regulate the dealings of members with their clients and other
+            members.
+          </li>
+          <li className="mb-2">
+            To co-ordinate the stock dealing activities of members and
+            facilitate the exchange of information including prices of
+            securities listed for their mutual advantages and for the benefit of
+            their clients.
+          </li>
+          <li>
+            To co-operate with associations of stockbrokers and Stock Exchanges
+            in other countries, and to obtain and make available to members
+            information and facilities likely to be useful to them or to their
+            clients.
+          </li>
+        </ul>
+
+        <p className="text-[18px] font-[400] leading-8 mb-6">
+          GSE as a public company limited by guarantee has no owners or
+          shareholders as such, but members are either corporate bodies or
+          individuals (Ghana Stock Exchange, n.d.). On their website, it is
+          captured that there are two categories of members, namely Licensed
+          Dealing Members (LDMs) and Associate Members. An LDM is a corporate
+          body licensed by the Exchange to deal in all securities. An Associate
+          member is an individual or corporate body that has satisfied the
+          Exchange’s membership requirements but is not licensed to deal in
+          securities.
+        </p>
+        <p className="text-[18px] font-[400] leading-8 mb-6">
+          GSE has two categories of listing. These are the Official list and the
+          Ghana Alternative Market (GAX). The GAX is essentially aimed at small
+          and medium-sized enterprises (SMEs). Types of Securities that can be
+          listed include Shares (preference or equities); Debt in the form of
+          corporate bonds (and notes), municipal bonds (and notes) and
+          government bonds (and notes); and close-end unit trusts and mutual
+          funds (Ghana Stock Exchange, n.d.). There are over 30 companies listed
+          on GSE.
         </p>
       </section>
 
@@ -160,42 +181,46 @@ export default function Home() {
         <div className="h-1 bg-[#0F0CB0] rounded-full w-[25%] mx-auto mb-10" />
 
         <p className="text-[18px] font-[400] leading-8 mb-6">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus non
-          enim praesent elementum facilisis leo vel fringilla est. Tristique
-          senectus et netus et malesuada fames. Amet mattis vulputate enim nulla
-          aliquet. Malesuada bibendum arcu vitae elementum curabitur. Ultrices
-          sagittis orci a scelerisque purus semper eget duis. Sodales ut eu sem
-          integer vitae justo eget magna. Nisl purus in mollis nunc sed id
-          semper risus. Sed vulputate odio ut enim blandit volutpat maecenas.
-          Gravida dictum fusce ut placerat orci nulla pellentesque dignissim
-          enim. Est ultricies integer quis auctor elit sed vulputate mi. Euismod
-          nisi porta lorem mollis aliquam ut. Quis vel eros donec ac odio tempor
-          orci dapibus ultrices.
+          MTN’s history began in 1994 with the registration of Scancom Limited
+          as a company in Ghana and the launch of operations two years later, in
+          November 1996, under the trade name, Spacefon. Spacefon introduced
+          into Ghana’s telecoms market the first GSM (Global System for Mobile
+          Communication) service along with enhanced features such as Caller ID,
+          call forwarding, call waiting, call barring and itemized billing.
         </p>
 
         <p className="text-[18px] font-[400] leading-8 mb-6">
-          Eu nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Fusce id
-          velit ut tortor pretium viverra. Dignissim sodales ut eu sem integer
-          vitae justo eget. Et ligula ullamcorper malesuada proin libero nunc.
-          Ultrices in iaculis nunc sed augue lacus. Sed lectus vestibulum mattis
-          ullamcorper velit sed ullamcorper morbi. Tempus quam pellentesque nec
-          nam aliquam. Risus quis varius quam quisque. Ultricies mi eget mauris
-          pharetra. Ultrices mi tempus imperdiet nulla malesuada pellentesque
-          elit. Porttitor eget dolor morbi non arcu risus.
+          MTN Ghana is a successful business which has been operating in Ghana
+          since 2008 (Business Essay, n.d.). MTN Ghana is the leading provider
+          of mobile telecommunications services in Ghana and is listed on the
+          Ghana Stock Exchange (African Financials, 2023). According to MTN
+          Ghana’s 2022 financial report, its Mobile subscribers increased by
+          12.8% to 28.6 million.
         </p>
 
-        <p className="text-[18px] font-[400] leading-8">
-          Enim blandit volutpat maecenas volutpat blandit aliquam. Facilisi
-          etiam dignissim diam quis enim lobortis scelerisque fermentum dui.
-          Aliquet enim tortor at auctor. Elit pellentesque habitant morbi
-          tristique senectus et. A condimentum vitae sapien pellentesque
-          habitant. Amet facilisis magna etiam tempor orci eu lobortis elementum
-          nibh. Volutpat diam ut venenatis tellus in metus vulputate. Sagittis
-          orci a scelerisque purus semper. At tempor commodo ullamcorper a. Non
-          diam phasellus vestibulum lorem sed risus ultricies. Ullamcorper morbi
-          tincidunt ornare massa eget egestas purus viverra.
+        <p className="text-[18px] font-[400] leading-8 mb-6">
+          MTN acknowledges that an effective board must have the expertise and
+          competence to promptly and appropriately address current and emerging
+          issues to ensure the delivery of our strategy. A clear division of
+          responsibilities at the head of the company ensures a balance of
+          authority. No individual has unfettered powers of decision-making, and
+          no block of individuals can dominate the Board. MTN Ghana’s Board
+          Charter stipulates that operation of the Board and the executive
+          responsibility for running the business are separate tasks (MTN Ghana,
+          n.d.). On their website is the display of their board which consists
+          of eleven members: an independent non-executive chairman, four
+          independent non-executive directors, four non-executive directors and
+          two executive directors.
+        </p>
+        <p className="text-[18px] font-[400] leading-8 mb-6">
+          MTN Ghana has over the years proven to be a very competent and
+          promising company. It combines competencies such as its subscription
+          base, durability of its competitive advantage, mobile money service
+          and subscriptions, great leadership and skilled labor, product
+          differentiation and its strong brand name to maintain and dominate the
+          telecommunications industry of Ghana.
         </p>
       </section>
     </main>
-  )};
+  );
+}

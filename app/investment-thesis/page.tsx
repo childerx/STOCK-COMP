@@ -37,12 +37,13 @@ const page = () => {
         <div className="h-1 bg-[#0F0CB0] rounded-full w-[25%] mx-auto mb-10" />
 
         <p className="text-[18px] font-[400] leading-8 mb-6">
-          Investors should buy scancom plc shares since its intrinsic value gh
-          1.66 is more than its current share price gh 1.38 which suggest that
-          the stock is undervalued we arrived at the 5 - year target price
-          within the range of GHS 2.10 – GHS 2.13 for MTN Ghana based on
-          weighted average of the discounted cash flow (DCF) model, with upside
-          potential of 52.90% - is a good deal
+          As an outcome of our valuation analysis (details to be discussed
+          below), the five-year target price of MTN Ghana is within the range of
+          GHC 2.10 – GHC 2.13 with its intrinsic value at GHC 2.15 against the
+          MTN Ghana current price of GHC 1.40 thus at current discount rate of
+          35%. This means that MTN Ghana is currently undervalued hence
+          investors should take advantage and enter a buy position for the MTN
+          Ghana stock.
         </p>
       </section>
     </main>
