@@ -129,6 +129,14 @@ const Page = () => {
             height={700}
           />
         </div>
+        <div className="flex justify-center items-center ml-16 mb-10">
+          <Image
+            src={"/images/compAna.png"}
+            alt={"industrial-analysis"}
+            width={1000}
+            height={700}
+          />
+        </div>
       </div>
     </main>
   );

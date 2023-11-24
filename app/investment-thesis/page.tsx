@@ -39,7 +39,7 @@ const page = () => {
         <p className="text-[18px] font-[400] leading-8 mb-6">
           As an outcome of our valuation analysis (details to be discussed
           below), the five-year target price of MTN Ghana is within the range of
-          GHC 2.10 – GHC 2.13 with its intrinsic value at GHC 2.15 against the
+          GHC 2.10 – GHC 2.13 with its intrinsic value at GHC 1.74 against the
           MTN Ghana current price of GHC 1.40 thus at current discount rate of
           35%. This means that MTN Ghana is currently undervalued hence
           investors should take advantage and enter a buy position for the MTN

@@ -30,7 +30,7 @@ const page = () => {
         />
         <EconAnalysisContainer
           title="inflation"
-          body="Ghana’s Inflation as at September 2023 was 38.1%, a decrease from August’s 40.1%."
+          body="Ghana’s Inflation as at November 2023 was 35.2%, a decrease from August’s 40.1%."
         />
         <EconAnalysisContainer
           title="gdp"
