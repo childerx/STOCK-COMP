@@ -34,18 +34,18 @@ export default function Home() {
 
         <p className="text-[18px] font-[400] leading-8 mb-16">
           An investment is something of value purchased to make more money.
-          While the term "investment" is often applied to stocks, bonds, and
-          other financial instruments, investments also commonly include real
-          estate, artwork, collectibles, and even wine (Rosenberg, 2021). In his
-          work, (Rosenberg, 2021) averred that there are often risks involved
-          with investing, but those risks regularly pay off for countless
-          investors worldwide. Here, we shall look at investments pertaining to
-          stocks. This essay intends to walk the reader through the stock market
-          of Ghana and shall recommend an investment opportunity for the
-          company, MTN Ghana. It shall describe the Ghanaian stock market, MTN
-          Ghana company, investment thesis, industrial analysis, economic
-          analysis, valuation, company analysis, sensitivity analysis, porters
-          five, SWOT and PESTLE analysis.
+          While the term &apos;investment&apos; is often applied to stocks,
+          bonds, and other financial instruments, investments also commonly
+          include real estate, artwork, collectibles, and even wine (Rosenberg,
+          2021). In his work, (Rosenberg, 2021) averred that there are often
+          risks involved with investing, but those risks regularly pay off for
+          countless investors worldwide. Here, we shall look at investments
+          pertaining to stocks. This essay intends to walk the reader through
+          the stock market of Ghana and shall recommend an investment
+          opportunity for the company, MTN Ghana. It shall describe the Ghanaian
+          stock market, MTN Ghana company, investment thesis, industrial
+          analysis, economic analysis, valuation, company analysis, sensitivity
+          analysis, porters five, SWOT and PESTLE analysis.
         </p>
 
         <h1 className="text-[#1E1E1E] font-[600] text-[24px] uppercase mb-2">
