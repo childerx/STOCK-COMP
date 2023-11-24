@@ -19,11 +19,11 @@ export const navigationLinks = [
     path: "/economic-analysis",
     img_src: "/images/bill.svg",
   },
-  {
-    name: "Summary Data",
-    path: "/summary-data",
-    img_src: "/images/summary.svg",
-  },
+  // {
+  //   name: "Summary Data",
+  //   path: "/summary-data",
+  //   img_src: "/images/summary.svg",
+  // },
   {
     name: "Company Analysis",
     path: "/company-analysis",
